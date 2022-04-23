@@ -9,6 +9,8 @@ public class Utilerias {
 		System.out.println("Demo3");
 		System.out.println("Demo4");
 		System.out.println("Demo5");
+		System.out.println("Demo6");
+		
 	}
 	
 	public String formateaFechaGeneral (String fecha[])
